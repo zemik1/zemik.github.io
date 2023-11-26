@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zemik.github.io/precache-manifest.88341e9f3a8292b94ff0ca878dc5ba7d.js"
+  "/zemik.github.io/precache-manifest.ca2f15aa4a9a2884cb7bd13fec8ac43e.js"
 );
 
 self.addEventListener('message', (event) => {

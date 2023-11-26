@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977da5f9ae377724d6bfba1f3ee667a6",
+    "revision": "6071aaeddd5e6010b7444d0fcbc95999",
     "url": "/zemik.github.io/index.html"
   },
   {
