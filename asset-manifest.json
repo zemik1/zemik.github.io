@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zemik.github.io/static/css/main.bd2807f4.chunk.css",
+    "main.js": "/zemik.github.io/static/js/main.9a53a916.chunk.js",
+    "main.js.map": "/zemik.github.io/static/js/main.9a53a916.chunk.js.map",
+    "runtime~main.js": "/zemik.github.io/static/js/runtime~main.f4245b1a.js",
+    "runtime~main.js.map": "/zemik.github.io/static/js/runtime~main.f4245b1a.js.map",
+    "static/js/2.90a2cde4.chunk.js": "/zemik.github.io/static/js/2.90a2cde4.chunk.js",
+    "static/js/2.90a2cde4.chunk.js.map": "/zemik.github.io/static/js/2.90a2cde4.chunk.js.map",
+    "index.html": "/zemik.github.io/index.html",
+    "precache-manifest.88341e9f3a8292b94ff0ca878dc5ba7d.js": "/zemik.github.io/precache-manifest.88341e9f3a8292b94ff0ca878dc5ba7d.js",
+    "service-worker.js": "/zemik.github.io/service-worker.js",
+    "static/css/main.bd2807f4.chunk.css.map": "/zemik.github.io/static/css/main.bd2807f4.chunk.css.map",
+    "static/media/gitHub.svg": "/zemik.github.io/static/media/gitHub.c5787617.svg",
+    "static/media/main.css": "/zemik.github.io/static/media/header-bg.6f3e1993.png",
+    "static/media/instagram.svg": "/zemik.github.io/static/media/instagram.336dd870.svg",
+    "static/media/moon.svg": "/zemik.github.io/static/media/moon.c0e1ca3d.svg",
+    "static/media/sun.svg": "/zemik.github.io/static/media/sun.ccaa7d23.svg",
+    "static/media/vk.svg": "/zemik.github.io/static/media/vk.53e53713.svg"
+  }
+}
